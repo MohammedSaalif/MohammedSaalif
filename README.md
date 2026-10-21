@@ -369,7 +369,7 @@ KL University · Guntur, Andhra Pradesh
 
 <div align="center">
 
-⁠ text
+⁠
         GENERATIVE AI APPLICATIONS
                    ↓
           MULTI-AGENT SYSTEMS
@@ -404,9 +404,6 @@ I enjoy working at the intersection of *software engineering and artificial inte
 </a>
 
 <br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=MohammedSaalif&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
 </div>
 
 <p align="center">
